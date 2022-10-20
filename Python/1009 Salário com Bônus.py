@@ -1,0 +1,5 @@
+m = input()
+a = float(input())
+b = float(input())
+x = float((b/100*15) + a)
+print("TOTAL = R$ {:.2f}".format(x))

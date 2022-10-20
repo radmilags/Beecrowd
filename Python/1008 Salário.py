@@ -1,0 +1,5 @@
+n = int(input())
+m = int(input())
+r = float(input())
+print("NUMBER =", n)
+print("SALARY = U$ {:.2f}".format(m*r))
