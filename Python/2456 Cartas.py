@@ -1,0 +1,8 @@
+s = list(map(int, input().split()))
+c = sorted(s)
+print(type(c))
+d = reversed(s)
+print(type(d))
+if c == s: print("C")
+elif d == s: print("D")
+else: print("N")
