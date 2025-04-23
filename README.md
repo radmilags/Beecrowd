@@ -98,8 +98,6 @@ ruby arquivo.rb
 ## 🧠 Principais Comandos do Git
 
 ```bash
-# Clonar repositório
-git clone https://github.com/seuusuario/seurepositorio.git
 
 # Ver status das alterações
 git status
