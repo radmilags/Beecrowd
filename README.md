@@ -1,5 +1,5 @@
 # Beecrowd
-Resolução de problemas do beecrowd (antigo URI) nas linguagens Assembly, C, C++, C#, Pascal, PHP, Python, Ruby e SQL
+Resolução de problemas do beecrowd (antigo URI) nas linguagens Assembly, C, C++, C#, Java, JavaScript, Pascal, PHP, Python, Ruby e SQL
 
 Meu perfil no beecrowd https://www.beecrowd.com.br/judge/pt/profile/230691
 
