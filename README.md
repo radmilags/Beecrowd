@@ -125,8 +125,4 @@ git pull
 - 🏅 Ranking Geral: 945º
 - 🎓 Ranking IFRN: 5º
 
----
 
-## 🤝 Contribuindo
-
-Sinta-se livre para abrir issues ou pull requests com sugestões, melhorias ou novas soluções!
