@@ -14,6 +14,12 @@
 
 ---
 
+
+## 📈 Estatísticas
+
+- 🧠 Perfil no beecrowd: [Radmila Gama](https://www.beecrowd.com.br/judge/pt/profile/230691)
+- 🏅 Ranking Geral: 945º
+- 🎓 Ranking IFRN: 5º
 ## 📂 Estrutura do Projeto
 
 Cada pasta contém resoluções de problemas em uma linguagem específica, organizadas por número ou nome do problema.
@@ -115,12 +121,7 @@ git push origin main
 git pull
 ```
 
----
 
-## 📈 Estatísticas
 
-- 🧠 Perfil no beecrowd: [clique aqui](https://www.beecrowd.com.br/judge/pt/profile/230691)
-- 🏅 Ranking Geral: 945º
-- 🎓 Ranking IFRN: 5º
 
 
